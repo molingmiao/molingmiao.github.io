@@ -208,7 +208,7 @@ author: MLM
 ![删除线1] ![删除线2]
 
 # 参考文献：
-http://www.appinn.com/markdown/
-http://sspai.com/25137
+* http://www.appinn.com/markdown/
+* http://sspai.com/25137
 
 原创不易，如需转载，请标明出处！
