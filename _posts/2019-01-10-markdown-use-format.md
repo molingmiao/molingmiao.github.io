@@ -201,13 +201,13 @@ author: MLM
 
 就不一一列举了，基本上跟js转义是一样的
 
-11、删除线
+# 删除线
 [删除线1]: https://images2015.cnblogs.com/blog/600165/201701/600165-20170121194131015-499064556.png
 [删除线2]: https://images2015.cnblogs.com/blog/600165/201701/600165-20170121194138656-989711852.png
 
 ![删除线1] ![删除线2]
 
-参考文献：
+# 参考文献：
 http://www.appinn.com/markdown/
 http://sspai.com/25137
 
