@@ -13,7 +13,7 @@ type: page
 
 ## 联系我
 
-* GitHub：[Gaohaoyang](https://github.com/molingmiao)
+* GitHub：[MoLingMiao](https://github.com/molingmiao)
 * email：280227653@qq.com
 * [Weibo](http://weibo.com/3115521wh)
 * [知乎](https://www.zhihu.com/people/molingmiao)
