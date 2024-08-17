@@ -5,6 +5,7 @@ categories: Flutter
 tags: IOS模拟器
 author: MLM
 ---
+
 因为想学ios编程，但是却没有苹果设备，没法使用xcode，虚拟机正好能解决他们的问题。
 
 采用一键安装的方式来快速实现mac环境，原理上其实还是用了vm虚拟机。
