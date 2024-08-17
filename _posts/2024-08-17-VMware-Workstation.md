@@ -5,7 +5,6 @@ categories: Flutter
 tags: IOS模拟器
 author: MLM
 ---
-
 因为想学ios编程，但是却没有苹果设备，没法使用xcode，虚拟机正好能解决他们的问题。
 
 采用一键安装的方式来快速实现mac环境，原理上其实还是用了vm虚拟机。
@@ -42,11 +41,6 @@ JU090-6039P-08409-8J0QH-2YR7F
 
 解锁使用的是github开源程序unlocker：[https://github.com/DrDonk/unlocker/releases](https://github.com/DrDonk/unlocker/releases)
 
-新版4系解锁失败的朋友可以试试我保存的旧版3系解锁工具：
-
-阿里云盘：[https://www.aliyundrive.com/s/w3fM4jaZMjk](https://www.aliyundrive.com/s/w3fM4jaZMjk) 提取码：qZ4N
-
-百度网盘：[https://pan.baidu.com/s/1KV7Y5MBghnnKwYlKZ0Ycow?pwd=ie76](https://pan.baidu.com/s/1KV7Y5MBghnnKwYlKZ0Ycow?pwd=ie76) 提取码：ie76
 
 解锁涉及到修改注册列表，会报毒，请先关闭杀毒软件
 
