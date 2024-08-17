@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Flutter学习中的问题：通过VMware Workstation做成IOS模拟器"
-categories: IOS模拟器
-tags: VMware
+categories: Flutter
+tags: IOS模拟器
 author: MLM
 ---
 因为想学ios编程，但是却没有苹果设备，没法使用xcode，虚拟机正好能解决他们的问题。

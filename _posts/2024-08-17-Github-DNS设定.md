@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Flutter学习中的问题：关于Github DNS设置"
-categories: Github
+categories: Flutter
 tags: Github
 author: MLM
 ---
