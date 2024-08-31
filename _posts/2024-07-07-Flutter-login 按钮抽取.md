@@ -12,7 +12,7 @@ author: MLM
 * 抽取公共按钮组件
 * 修改成纯 `ElevatedButton` 按钮
 
-![image-20220622222415206](https://molingmiao.github.io/tag/image-20220622222415206.png)
+![image-20220622222415206](https://molingmiao.github.io/pic/image-20220622222415206.png)
 
 ## [按钮组件抽取]()
 

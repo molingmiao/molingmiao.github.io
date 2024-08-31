@@ -11,7 +11,7 @@ author: MLM
 
 * 看标注布局界面（千锤百炼）
 
-![image-20220622212914896](https://molingmiao.github.io/tag/image-20220622212914896.png)
+![image-20220622212914896](https://molingmiao.github.io/pic/image-20220622212914896.png)
 
 ## [布局]()
 

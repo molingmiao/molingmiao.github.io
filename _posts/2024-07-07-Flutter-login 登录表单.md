@@ -10,7 +10,7 @@ author: MLM
 * 编写表单
 * 有效性检查
 
-![image-20220622220331169](https://molingmiao.github.io/tag/image-20220622220331169.png)
+![image-20220622220331169](https://molingmiao.github.io/pic/image-20220622220331169.png)
 
 ## [登录表单]()
 
