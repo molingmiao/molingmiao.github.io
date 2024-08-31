@@ -1,0 +1,56 @@
+---
+layout: post
+title:  "开发学习：figma蓝湖标注"
+categories: Flutter
+tags: 开发学习
+author: MLM
+---
+# [figma 蓝湖标注]()
+
+## [安装 figma]()
+
+[https://www.figma.com](https://www.figma.com/)
+
+![](https://molingmiao.github.io/pic/20220617124213.png)
+
+## [导入 figma]()
+
+* 在工具的首页面板上，选择 `import file`
+
+![](https://molingmiao.github.io/pic/20220617132244.png)
+
+* 导入成功后, 选着 `课程` page 就能看到了
+
+![](https://molingmiao.github.io/pic/20220617132430.png)
+
+## [安装蓝湖figma插件]()
+
+* 前往蓝湖网址，注册并登陆
+
+[https://lanhuapp.com/](https://lanhuapp.com/)
+
+![](https://molingmiao.github.io/pic/20220617132743.png)
+
+* 在 figma 中下载蓝湖插件
+
+[https://www.figma.com/community/plugin/1000018270921149282/Lanhu](https://www.figma.com/community/plugin/1000018270921149282/Lanhu)
+
+![](https://molingmiao.github.io/pic/20220617132826.png)
+
+## [通过figma插件导入蓝湖平台]()
+
+* 在蓝湖平台创建项目
+
+![](https://molingmiao.github.io/pic/20220617133134.png)
+
+* 在 figma 中右键显示蓝湖插件，授权登录并上传
+
+![](https://molingmiao.github.io/pic/20220617132907.png)
+
+![](https://molingmiao.github.io/pic/20220617133016.png)
+
+* 在蓝湖平台查看标注
+
+![](https://molingmiao.github.io/pic/20220617133247.png)
+
+> 可以看到具体标注信息了
